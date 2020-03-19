@@ -124,7 +124,7 @@ gem 'execjs', require: false
 gem 'mini_racer'
 
 # TODO: determine why highline is being held back and upgrade to latest
-gem 'highline', '~> 1.7.0', require: false
+gem 'highline', '~> 2.0.3', require: false
 
 # TODO: Upgrading breaks Sidekiq Web
 # This is a bit of a hornets nest cause in an ideal world we much prefer
